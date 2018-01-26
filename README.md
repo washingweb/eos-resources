@@ -16,3 +16,4 @@
 * [The Problem with Byzantine Generals](https://steemit.com/blockchain/@dantheman/the-problem-with-byzantine-generals)
 * [Dan Larimer and Vitalik Buterin at the North American Bitcoin Conference in Miami](https://www.youtube.com/watch?v=mP82XmUNgNM)
 * [Peer Review of Cardano's Ouroboros](https://steemit.com/cardamon/@dan/peer-review-of-cardano-s-ouroboros)
+* [EOS.IO software will not suffer from Denial of Service (DOS) attacks like Ethereum](https://steemit.com/eos/@dantheman/eos-io-software-will-not-suffer-from-denial-of-service-dos-attacks-like-ethereum)
