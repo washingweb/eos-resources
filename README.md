@@ -23,3 +23,4 @@
 * [Why Am I Such a Fan of DPOS Blockchains Like STEEM and BitShares?](https://steemit.com/cryptocurrency/@lukestokes/why-am-i-such-a-fan-of-dpos-blockchains-like-steem-and-bitshares)
 * [video: Bitshares Security: Delegated Proof of Stake](https://www.youtube.com/watch?v=mqwD1u5s_XE)
 * [steemit witness](https://steemd.com/witnesses)
+* [approval voting](https://en.wikipedia.org/wiki/Approval_voting)
