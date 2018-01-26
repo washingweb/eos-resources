@@ -18,4 +18,5 @@
 * [Peer Review of Cardano's Ouroboros](https://steemit.com/cardamon/@dan/peer-review-of-cardano-s-ouroboros)
 * [EOS.IO software will not suffer from Denial of Service (DOS) attacks like Ethereum](https://steemit.com/eos/@dantheman/eos-io-software-will-not-suffer-from-denial-of-service-dos-attacks-like-ethereum)
 * [video: Bitshares Security: Delegated Proof of Stake](https://www.youtube.com/watch?v=mqwD1u5s_XE)
+* [bitshares - Voting](http://docs.bitshares.org/bitshares/user/voting.html)
 * [video: How To Vote in Bitshares - The Decentralized Way](https://www.youtube.com/watch?v=VRyJ8bWV1Xw)
