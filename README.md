@@ -14,3 +14,5 @@
 * [steem white paper](https://steem.io/SteemWhitePaper.pdf)
 * [Is the Ethereum team defending their ground against claim by EOS?](https://np.reddit.com/r/ethereum/comments/6qm0y2/is_the_ethereum_team_defending_their_ground/)
 * [The Problem with Byzantine Generals](https://steemit.com/blockchain/@dantheman/the-problem-with-byzantine-generals)
+* [Dan Larimer and Vitalik Buterin at the North American Bitcoin Conference in Miami](https://www.youtube.com/watch?v=mP82XmUNgNM)
+* [Peer Review of Cardano's Ouroboros](https://steemit.com/cardamon/@dan/peer-review-of-cardano-s-ouroboros)
