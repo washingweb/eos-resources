@@ -21,3 +21,4 @@
 * [bitshares - Voting](http://docs.bitshares.org/bitshares/user/voting.html)
 * [video: How To Vote in Bitshares - The Decentralized Way](https://www.youtube.com/watch?v=VRyJ8bWV1Xw)
 * [Why Am I Such a Fan of DPOS Blockchains Like STEEM and BitShares?](https://steemit.com/cryptocurrency/@lukestokes/why-am-i-such-a-fan-of-dpos-blockchains-like-steem-and-bitshares)
+* [Bitshares Security: Delegated Proof of Stake](https://www.youtube.com/watch?v=mqwD1u5s_XE)
